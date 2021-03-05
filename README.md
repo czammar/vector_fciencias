@@ -99,7 +99,9 @@ Plasmar al menos uno de entre Python o R!
 
   
 
-* **¿Qué herramientas de visualización son comunmente usadas en el mercado?**
+  
+
+  **¿Qué herramientas de visualización son comunmente usadas en el mercado?**
 
 **Interactivos:**
 
@@ -171,7 +173,7 @@ Plasmar al menos uno de entre Python o R!
 * **Píldoras informáticas:** en un sitio de programación con muchos cursos gratuitos
   * Git & Github: https://www.pildorasinformaticas.es/course/curso-de-git-github/
 
-* **Mode Analytics: **
+* **Mode Analytics**
   * **The SQL for Data Analysis:** https://mode.com/sql-tutorial/introduction-to-sql/
   * **Python** https://mode.com/python-tutorial/
 
