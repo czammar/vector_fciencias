@@ -255,6 +255,8 @@ Plasmar al menos uno de entre Python o R!
 
 # 5. Preparación para entrevistas de trabajo
 
+## 5.1 Consideraciones generales
+
 En general, las entrevistas de trabajo buscan ahondar sobre el contenido del CV que ha sido de interés para una posición específica. En este sentido, es relevante señalar que los entrevistadores de RH, managers o expertos técnicos tratan de tener mayor conocimiento de los postulantes; **no se centran únicamente sobre aspectos técnicos**, sino que el lado humano es muy relevante para saber si son compatibles con lo que la empresa busca, con lo cual se puede ahondar en la situación de vida, sus pasiones, los planes que tienen (academicos y profesionales), así como experiencias previas.
 
 **¿Qué tipo de preguntas se hacen a un candidato?**
@@ -268,7 +270,9 @@ Ejemplos:
 * ¿Porque terminaste tu ultima experiencia laboral?
 * ¿Cuál es tu mayor defecto?
 
-*Modelos de competencias*
+*Nota:* Es importante tener en cuenta que siempre se trabaja en equipos, donde hay muchos perfiles, asi que es indispensable saber si los candidatos tienes aptitudes de comunicación, trabajo en equipo, liderazgo y como se desenvuelven en conflictos. La parte humana es decisiva para el éxito por lo que es bueno transmitirla!
+
+## 5.2 Modelos de competencias
 
 En modelos de entrevistas que se basan en competencias, a los candidatos se les requiere dar un ejemplo de como reaccionaron a una situación concreta, de la que se busca inferir como reaccionarían en su día a día laboral. Esencialmente se trata de conocer el resultado de que el candidato obtuvo en respuesta a esa situación específica. En general, este tipo de preguntas pueden girar en torno a algunos siguientes ejes:
 
@@ -283,7 +287,7 @@ En modelos de entrevistas que se basan en competencias, a los candidatos se les 
 * Relaciones interpersonales,
 * Otros: Puedes revisar más a fondo este tema en internet, pero este [documento de la Unión Europea es un buen punto de partida](http://www.fevec.com/recursos_fevec/A1A8.pdf)
 
-**¿Qué puede ayudarte a destacar como candidato?**
+## 5.3 ¿Qué puede ayudarte a destacar como candidato?
 
 * Estar a tiempo en la entrevista,
 * Proveer en el mismo momento de la entrevista, una copia o version electrónica del CV, aun si ya se entregó previamente.
@@ -310,6 +314,16 @@ En modelos de entrevistas que se basan en competencias, a los candidatos se les 
   * ¿cuál es el plan de desarrollo dentro de la empresa para esta posición?
 * Expresar expectativas salariales acordes a nivel de responsabilidad de la posición. 
   * Una buena técnica, es averiguar el sueldo de posiciones similares, con conocidos, personas trabajando en la empresa o preguntando en redes sociales. Existen páginas en internet que proveen benchmarks.
+
+## 5.4 Mock Up
+
+Prepararme una presentación de 10 minutos pensando en que participas en un rol de *analista de datos* en una empresa ficticia relacionada con ciencia de datos, de preferencia en inglés con los siguientes puntos:
+
+* ¿Quién soy yo? (Background, intereses profesionales, herramientas relevantes para la posición)
+* ¿Porque me interesa trabajar en esta empresa?
+* ¿Porque soy el mejor candidato?
+
+Tras la entrevista, seguirá una secuencia de preguntas basadas en competencias y feedback.
 
 # 6. Referencias
 
