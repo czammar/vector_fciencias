@@ -238,6 +238,7 @@ Plasmar al menos uno de entre Python o R!
 * Grupo relacionados con matemáticas, estadística, programación y ciencia de datos dentro de redes sociales, donde se publican eventos, post relevantes y ofertas laborales, como los siguientes:
   * [DataLab Community](https://www.facebook.com/groups/709654906239530/)
   * [The Data Pub by Sociedat](http://thedata.pub/?fbclid=IwAR0gSZO0TsY-vxmGOJMsK7_7_F9qM1LzHwI56rOCd0WODSqQ7yBClMxPfSs), también con grupo en Facebook https://www.facebook.com/groups/thedatapubcommunity/
+  * [Comunidad de Ciencia de Datos](https://www.facebook.com/groups/cienciadedatos)
   * [Python en español](https://www.facebook.com/search/top?q=python%20en%20español)
   * [Rproject en español](https://www.facebook.com/groups/rprojectsp)
   * [Asociación Mexicana de Estadística](https://www.facebook.com/amestadmx)
