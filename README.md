@@ -158,6 +158,7 @@ Plasmar al menos uno de entre Python o R!
 * Git
 * Cuenta de Github o Gitlab, crearla en caso de no tener.
 * Github Flow
+* Framework SCRUM/Agile
 
 ### E. Herramientas de visualización comunmente usadas
 
