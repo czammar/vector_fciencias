@@ -358,6 +358,19 @@ Tras la entrevista, seguirá una secuencia de preguntas basadas en competencias 
   * **The SQL for Data Analysis:** https://mode.com/sql-tutorial/introduction-to-sql/
   * **Python** https://mode.com/python-tutorial/
 
+* More about SQL:
+
+  1. . Zachary Thomas' SQL Questions https://lnkd.in/g-JJzuD
+  2. Select * SQL: https://selectstarsql.com/
+  3. Leetcode: https://lnkd.in/g3c5JGC
+  4. LinkedIn Learning: https://lnkd.in/gQXFc4n
+  5. Window Functions: https://lnkd.in/g3RtPCJ
+  6. HackerRank: https://lnkd.in/grv_9sB
+  7. W3 Schools: https://lnkd.in/gJPfrrv
+  8. CodeAcademy: https://lnkd.in/gT5xmpN
+  9. SQLZoo: https://sqlzoo.net/
+  10. SQL Bolt: https://sqlbolt.com/
+
 **Repositorio de herramientas de DSSG para Data Science (recomendado)**
 
 * https://github.com/dssg/hitchhikers-guide
