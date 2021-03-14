@@ -358,7 +358,7 @@ Tras la entrevista, seguirá una secuencia de preguntas basadas en competencias 
   * **The SQL for Data Analysis:** https://mode.com/sql-tutorial/introduction-to-sql/
   * **Python** https://mode.com/python-tutorial/
 
-* **More about SQL:**
+* **More about SQL: (https://www.linkedin.com/posts/eric-weber-060397b7_data-datascience-sql-activity-6776856413793787904-dZYO)**
 
   1. Zachary Thomas' SQL Questions https://lnkd.in/g-JJzuD
   2. Select * SQL: https://selectstarsql.com/
