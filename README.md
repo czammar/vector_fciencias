@@ -29,11 +29,11 @@ En el mercado laboral actual, se espera que un Data Scientist sea un experto cap
 
 ## 1.2 ¿Qué tipo de temas son de interés?
 
-A menos que se trate del sector tecnológico, la mayoría de empresas se encuentra migrando hacia el uso de datos para la toma de decisiones  y la adopción de herramientas tecnológicas que les permitan hacerlo ([*transformación digital*](https://www.mckinsey.com/business-functions/organization/our-insights/unlocking-success-in-digital-transformations)), con lo cual el tipo de problemas en el que tienen interés y que son asequibles para ellas está determinado por su nivel de madurez en la cultura de datos.
+A menos que se trate del sector tecnológico, la mayoría de empresas se encuentra migrando hacia el uso de datos para la toma de decisiones y la adopción de herramientas tecnológicas que les permitan hacerlo ([*transformación digital*](https://www.mckinsey.com/business-functions/organization/our-insights/unlocking-success-in-digital-transformations)), con lo cual el tipo de problemas en el que tienen interés y que son asequibles para ellas está determinado por su nivel de madurez en la cultura de datos.
 
-Típicamente esto implica que las empresas y organizaciones comienzan construyendo sus fuentes de datos y explotándolas de manera descriptiva para tomar el pulso de su negocio, para explotarlas de forma predicitva o casual.
+Típicamente esto implica que las empresas y organizaciones comienzan construyendo sus fuentes de datos y explotándolas de manera descriptiva para tomar el pulso de su negocio, para explotarlas de forma predicitva, prescriptiva o casual.
 
-Con todo lo anteriores en mentes, esta es una lista **no exhaustiva** de los temas de interés para las empresas en cuestiones de datos:
+Con todo lo anterior en mente, esta es una lista **no exhaustiva** de los temas de interés para las empresas en cuestiones de datos:
 
 **Generales**
 
@@ -57,8 +57,8 @@ Con todo lo anteriores en mentes, esta es una lista **no exhaustiva** de los tem
 * Churn models,
 * Clustering (por ejemplo, para segmentación de clientes),
 * ¿Qué factores explican el *uplift* de un KPI? (por ejemplo, con modelos interpretables para saber porqué incrementan las ventas, como modelos de regresión),
-* Optimización de recursos y maximización de utilidad.
-* Detección de comportamientos anómalos (por ejemplo en series de tiempo, imágenes, texto para detectar fraudes)
+* Optimización de recursos y maximización de utilidad,
+* Detección de comportamientos anómalos (por ejemplo en series de tiempo, imágenes, texto para detectar fraudes).
 
 ## 1.1 ¿Qué roles existen?
 
