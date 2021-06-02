@@ -13,4 +13,4 @@ tabla2 <-  read_excel("mi_archivo_2.xlsx", sheet = "Tipo2")
 df <- left_join(tabla1, tabla2, by = c("No.Cliente" = "cliente"))
 
 # escribe tabla con join a un archivo a csv
-write_csv(storms, "tabla_join.csv")
+write_csv(df, "tabla_join.csv")
