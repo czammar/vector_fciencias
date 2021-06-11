@@ -1,3 +1,4 @@
+# Este es un script
 # Instala paquetes relevantes
 list.of.packages <- c("dplyr", "tidyverse", "readxl")
 new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
