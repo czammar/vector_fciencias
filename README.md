@@ -1,11 +1,11 @@
 # Notas para un mejor CV en Ciencia de Datos
 **Fecha:** 04/Marzo/2021
 
-**Autor:** César Zamora
+**Autor:** César Zamora (cesar_czm@ciencias.unam.mx)
 
 # 0. Intro
 
-Estas breves notas tienen por objetivo de ayudar a posicionarnos como mejores candidatos a puestos en los que se inicia profesionalmente hacia ciencia de datos, basados en mi propia experiencia. 
+Estas breves notas tienen por objetivo de ayudar a posicionarnos como mejores candidatos a puestos en los que se inicia profesionalmente hacia ciencia de datos, basados en la experiencia del autor. 
 
 # 1. Ciencia de datos en el mercado
 
@@ -114,7 +114,7 @@ Los procesos de reclutamiento en el área de ciencia de datos son muy similares 
   * Proyectos o experiencia que se pueda ligar a la vacantes
   * Mención a herramientas tecnológicas que se espera el candidato domine en la posición.
 * El formato debe ser 1) formal,  2) suficientemente claro y 3) organizado para abstraer la información relevante del candidato *en relación con el puesto*.
-  * Extracción a partir de perfil de Linkedin
+  * Nota: Se puede generar una extracción rapida del CV a partir de perfil de Linkedin, asi que es muy relevante actualizarlo!!!
 
 ## 2.2 Términos clave
 
@@ -159,13 +159,14 @@ Plasmar al menos uno de entre Python o R!
 * Cuenta de Github o Gitlab, crearla en caso de no tener.
 * Github Flow
 * Framework SCRUM/Agile
+* Docker
 
 ### E. Herramientas de visualización comunmente usadas
 
 **Interactivos:**
 
 * Software de paga: Power BI y Tableau, mayormente porque son sencillos de usar, compatibles con suits ofimáticas, se pueden conectar con archivos localeles, bases de datos o la nube y brindan una experiencia business. 
-* Open source: Shinny (R), Plottly (R y Python)
+* Open source: Shinny (R), Plottly (R y Python), Metabase, Superset
 
 **Estáticos:**
 
@@ -223,9 +224,9 @@ Plasmar al menos uno de entre Python o R!
 
 # 3. Perfil de Linkedin
 
-[WIP: Desarrollo]
-
-* Linkedin permite generar un CV con un formato claro y conciso.
+* Linkedin permite generar un CV con un formato claro y conciso (ir a mi perfil > botón `más` > guardar pdf)!
+* Muchos procesos de reclutamiento empiezan aquí, asi que hay que tener un perfil actualizado y acorde a los puestos que buscamos :)
+* Incluir terminos clave y proyectos concisos para incrementar las posibilidaes de resaltar
 * Incluir una fotografía formal o *business casual*, no es necesario traje o corbata, pero una camisa de vestir, un saco  y una sonrisa nos ayudan a transmitir una imagen más profesional.
 
 # 4. Estrategias para búsqueda de trabajo
@@ -319,13 +320,13 @@ En modelos de entrevistas que se basan en competencias, a los candidatos se les 
 
 ## 5.4 Mock Up
 
-Prepararme una presentación de 10 minutos pensando en que participas en un rol de *analista de datos* en una empresa ficticia relacionada con ciencia de datos, de preferencia en inglés con los siguientes puntos:
+Preparar una presentación de 10 minutos pensando en que participas en un rol de *analista de datos* en una empresa ficticia relacionada con ciencia de datos, de preferencia en inglés con los siguientes puntos:
 
 * ¿Quién soy yo? (Background, intereses profesionales, herramientas relevantes para la posición)
 * ¿Porque me interesa trabajar en esta empresa?
 * ¿Porque soy el mejor candidato?
 
-Tras la entrevista, seguirá una secuencia de preguntas basadas en competencias y feedback.
+Tras la entrevista, ten en mente los managers continúan una secuencia de preguntas basadas en competencias, feedback, intereses, fortalezas y debilidades del candidato, asi que preparate!
 
 # 6. Referencias
 
